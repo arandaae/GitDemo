@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TrueCoders\\GitIntro_HelloWorld\\GitIntro_HelloWorld\\GitIntro_HelloWorld.csproj": {}
+    "C:\\Users\\arand\\Desktop\\Git_Demo\\GitIntro_HelloWorld\\GitIntro_HelloWorld\\GitIntro_HelloWorld.csproj": {}
   },
   "projects": {
-    "D:\\TrueCoders\\GitIntro_HelloWorld\\GitIntro_HelloWorld\\GitIntro_HelloWorld.csproj": {
+    "C:\\Users\\arand\\Desktop\\Git_Demo\\GitIntro_HelloWorld\\GitIntro_HelloWorld\\GitIntro_HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TrueCoders\\GitIntro_HelloWorld\\GitIntro_HelloWorld\\GitIntro_HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\arand\\Desktop\\Git_Demo\\GitIntro_HelloWorld\\GitIntro_HelloWorld\\GitIntro_HelloWorld.csproj",
         "projectName": "GitIntro_HelloWorld",
-        "projectPath": "D:\\TrueCoders\\GitIntro_HelloWorld\\GitIntro_HelloWorld\\GitIntro_HelloWorld.csproj",
+        "projectPath": "C:\\Users\\arand\\Desktop\\Git_Demo\\GitIntro_HelloWorld\\GitIntro_HelloWorld\\GitIntro_HelloWorld.csproj",
         "packagesPath": "C:\\Users\\arand\\.nuget\\packages\\",
-        "outputPath": "D:\\TrueCoders\\GitIntro_HelloWorld\\GitIntro_HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\arand\\Desktop\\Git_Demo\\GitIntro_HelloWorld\\GitIntro_HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arand\\AppData\\Roaming\\NuGet\\NuGet.Config",
